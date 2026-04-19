@@ -14,7 +14,7 @@
 <br />
 
 <div align="center">
-  <h1 style="margin: 0; font-weight: 400; letter-spacing: 6px; color: #E2E8F0; font-family: monospace;">VOLCANO MNEMONIC MAP</h1>
+  <h1 style="margin: 0; font-weight: 400; letter-spacing: 6px; color: #E2E8F0; font-family: monospace;">Mnemonic Mapping</h1>
   <p style="margin-top: 4px; color: #A0AEC0; font-style: italic; font-family: serif;">
     linguistic steganography · cognitive compression · procedural mnemonics
   </p>
