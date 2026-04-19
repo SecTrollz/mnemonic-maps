@@ -22,7 +22,7 @@
 
 <hr style="border: none; border-top: 1px solid #4A5568; margin: 2em 0;" />
 
-# CORE THESIS · LINGUISTIC STEGANOGRAPHY FOR OPERATIONAL EFFICIENCY
+# Core Thesis · Linguistic Steganography for Operational Efficiency
 
 This project examines the intersection of **linguistics, cognitive psychology, and digital forensics** to create **memorable, executable, and composable workflows** encoded in natural language sentences.
 
