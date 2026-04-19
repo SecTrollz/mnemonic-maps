@@ -1,4 +1,4 @@
-```html
+
 <div align="center">
   <svg width="140" height="160" viewBox="0 0 140 160" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M70 8 L128 38 L128 102 L70 142 L12 102 L12 38 Z" stroke="#718096" stroke-width="3" fill="#1A202C" />
@@ -241,4 +241,3 @@ FURTHER READING
 <p style="text-align: right; font-family: monospace; color: #718096;">
   “The limits of my language mean the limits of my world.” — Wittgenstein
 </p>
-```
